@@ -20,5 +20,5 @@ I’m a fourth-year Software Engineering student at Tecnológico de Costa Rica, 
 ## Featured Projects 
 
 ## 📬 Contact Me
--Email: manfredjones.sa@gmail.com
--LinkedIn: linkedin.com/in/manfredjones/
+- Email: [manfredjones.sa@gmail.com](mailto:manfredjones.sa@gmail.com)
+- LinkedIn: [linkedin.com/in/manfredjones](https://www.linkedin.com/in/manfredjones/)
