@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 I’m a fourth-year Software Engineering student at Tecnológico de Costa Rica, with skills in Python, Java, C#, TypeScript, and experience in database management and quality assurance, including automated testing.
 
 ## Featured Projects 
+
+## 📬 Contact Me
+Email: manfredjones.sa@gmail.com
+LinkedIn: linkedin.com/in/manfredjones/
