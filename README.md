@@ -16,7 +16,7 @@
   🐾 Web application for managing veterinary clinic appointments. Built with Angular and TypeScript. Includes scheduling, client/pet records, and appointment tracking.
 
 - [**Text Simplification with Continual Learning**](https://github.com/manfredjones/continual-learning-replay.git)
-  📄 Research project using T5-small and Replay to mitigate catastrophic forgetting in automatic text simplification for Spanish. Includes full notebook, results, and final report.
+📄 Research project using T5-small and Replay to mitigate catastrophic forgetting in automatic text simplification for Spanish. Includes full notebook, results, and final report.
 
 - [**B&W Filesystem**](https://github.com/rsanchez08/Proyecto-2-SO.git)  
   ◼️◻️ A user-space file system written in C using FUSE, where all data is stored as black-and-white PNGs. Includes custom tools for formatting, mounting, and consistency checks.
