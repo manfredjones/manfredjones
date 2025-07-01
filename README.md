@@ -15,6 +15,9 @@
 - [**Veterinary Management System**](https://github.com/RojasAG/proyecto_ing)  
   🐾 Web application for managing veterinary clinic appointments. Built with Angular and TypeScript. Includes scheduling, client/pet records, and appointment tracking.
 
+- [**B&W Filesystem**](https://github.com/rsanchez08/Proyecto-2-SO.git)  
+  ◼️◻️ A user-space file system written in C using FUSE, where all data is stored as black-and-white PNGs. Includes custom tools for formatting, mounting, and consistency checks.
+
 ---
 
 ## 📬 Contact Me
