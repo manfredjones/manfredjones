@@ -1,34 +1,23 @@
-## Hi there 👋
+## 👋 Hi there, I'm Manfred Jones
 
-<!--
-**manfredjones/manfredjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a fourth-year Software Engineering student at Tecnológico de Costa Rica, with skills in Python, Java, C#, and TypeScript. I have hands-on experience in database management, backend/frontend development, and quality assurance — including automated testing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
 
-I’m a fourth-year Software Engineering student at Tecnológico de Costa Rica, with skills in Python, Java, C#, TypeScript, and experience in database management and quality assurance, including automated testing.
+- [**eFood Platform**](https://github.com/manfredjones/efood-2024)  
+  🍽️ A full-stack food order management system. Backend in C# using the .NET framework, frontend in HTML and CSS. Includes user login, product catalog, and order tracking.
 
+- [**eBook QA Testing**](https://github.com/AverageCastroEnjoyer/boihutqa)  
+  📚 Automation framework for testing an e-commerce bookstore. Developed with Selenium and Cypress for full unit and end-to-end testing coverage.
 
-# Featured Projects 🌟
-- [efood Platform](https://github.com/manfredjones/efood-2024.git)
-  A full-stack food order management system. Backend developed in C# using the .NET framework, and frontend built with HTML and CSS. Implements user login, product listing, and order tracking.
+- [**Veterinary Management System**](https://github.com/RojasAG/proyecto_ing)  
+  🐾 Web application for managing veterinary clinic appointments. Built with Angular and TypeScript. Includes scheduling, client/pet records, and appointment tracking.
 
-- [eBook QA Testing](https://github.com/AverageCastroEnjoyer/boihutqa.git)
-  Automation framework for testing an e-commerce bookstore. Developed with Selenium and Cypress to ensure coverage of user flows, unit testing, and end-to-end validations.
-
-- [Veterinary Management System](https://github.com/RojasAG/proyecto_ing.git)
-  A web application for managing veterinary clinic appointments. Built with Angular and TypeScript, it includes features for scheduling, client and pet records, and appointment tracking.
-
+---
 
 ## 📬 Contact Me
-- Email: [manfredjones.sa@gmail.com](mailto:manfredjones.sa@gmail.com)
-- LinkedIn: [linkedin.com/in/manfredjones](https://www.linkedin.com/in/manfredjones/)
+
+- 📧 Email: [manfredjones.sa@gmail.com](mailto:manfredjones.sa@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/manfredjones](https://www.linkedin.com/in/manfredjones/)
