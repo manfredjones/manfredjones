@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Manfred Jones
+## 👋 Hi there
 
 🎓 I'm a final-year Software Engineering student at Tecnológico de Costa Rica, with skills in Python, Java, C#, and TypeScript. I have hands-on experience in database management, backend/frontend development, and quality assurance, including automated testing.
 
