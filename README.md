@@ -15,7 +15,7 @@
 - [**Veterinary Management System**](https://github.com/RojasAG/proyecto_ing)  
   🐾 Web application for managing veterinary clinic appointments. Built with Angular and TypeScript. Includes scheduling, client/pet records, and appointment tracking.
 
-- - [**Text Simplification with Continual Learning**](https://github.com/manfredjones/continual-learning-replay.git)
+- [**Text Simplification with Continual Learning**](https://github.com/manfredjones/continual-learning-replay.git)
   📄 Research project using T5-small and Replay to mitigate catastrophic forgetting in automatic text simplification for Spanish. Includes full notebook, results, and final report.
 
 - [**B&W Filesystem**](https://github.com/rsanchez08/Proyecto-2-SO.git)  
