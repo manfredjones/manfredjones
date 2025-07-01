@@ -10,7 +10,7 @@
   🐾 Web application for managing veterinary clinic appointments. Built with Angular and TypeScript. Includes scheduling, client/pet records, and appointment tracking.
 
 - [**eBook QA Testing**](https://github.com/AverageCastroEnjoyer/boihutqa)  
-  📚 Automation framework for testing an e-commerce bookstore. Developed with Selenium and Cypress for full unit and end-to-end testing coverage.
+  📚 Automation framework for testing an e-commerce bookstore. Developed with Selenium and Cypress for full unit, end-to-end, and automated testing coverage.
 
 - [**eFood Platform**](https://github.com/manfredjones/efood-2024)  
   🍽️ A full-stack food order management system. Backend in C# using the .NET framework, frontend in HTML and CSS. Includes user login, product catalog, and order tracking.
