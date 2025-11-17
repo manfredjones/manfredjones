@@ -22,7 +22,7 @@
   ◼️◻️ A user-space file system written in C using FUSE, where all data is stored as black-and-white PNGs. Includes custom tools for formatting, mounting, and consistency checks.
 
 - [**Network Protocol Simulator**](https://github.com/PavsTEC/network_simulator)
-  🌐 Advanced educational simulator implementing multiple communication protocols using a fully modular, event-driven design. Includes Utopia, PAR, Stop-and-Wait, and Selective Repeat with configurable error rates, timeouts, and bidirectional   communication.
+  🌐 Modular, event-driven simulator for network protocols. Implements Utopia, PAR, Stop-and-Wait, Go-Back-N, and Selective Repeat with configurable errors and bidirectional communication.
 ---
 
 ## 📬 Contact Me
