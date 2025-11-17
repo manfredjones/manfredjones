@@ -21,6 +21,8 @@
 - [**B&W Filesystem**](https://github.com/rsanchez08/Proyecto-2-SO.git)  
   ◼️◻️ A user-space file system written in C using FUSE, where all data is stored as black-and-white PNGs. Includes custom tools for formatting, mounting, and consistency checks.
 
+- [**Network Protocol Simulator**](https://github.com/PavsTEC/network_simulator)
+  🌐 Advanced educational simulator implementing multiple communication protocols using a fully modular, event-driven design. Includes Utopia, PAR, Stop-and-Wait, and Selective Repeat with configurable error rates, timeouts, and bidirectional   communication.
 ---
 
 ## 📬 Contact Me
